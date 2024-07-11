@@ -1,7 +1,4 @@
-'''
-snake 1
-gun -1
-water 0'''
+'''This is a code to play snake water gun game with a bot'''
 import random
 computer= random.choice([-1,0,1])
 
